@@ -1,3 +1,8 @@
+<div align="center">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/jay-gleeson/cs175-midterm-project">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&amp;logoColor=white" alt="C++">
+</div>
+
 # CS175 Midterm Project Fall 2024
 
 **EUCLID**, a game of interdimensional adventure! 🌌🧳
